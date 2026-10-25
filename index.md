@@ -1,6 +1,6 @@
 ---
 
-title: Welcome to my blog!
+# title: Welcome to my blog!
 
-This is my first sample poc pilot mvp draft test website
+## This is my first sample poc pilot mvp draft test website
 ---
